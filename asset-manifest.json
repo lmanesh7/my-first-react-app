@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.800ff139.css",
-    "main.js": "/react-gh-pages/static/js/main.e55c9dcf.js",
-    "static/js/787.8e6ad4f4.chunk.js": "/react-gh-pages/static/js/787.8e6ad4f4.chunk.js",
-    "static/media/lightbulb.png": "/react-gh-pages/static/media/lightbulb.e0b4228d7584c1611738.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.800ff139.css.map": "/react-gh-pages/static/css/main.800ff139.css.map",
-    "main.e55c9dcf.js.map": "/react-gh-pages/static/js/main.e55c9dcf.js.map",
-    "787.8e6ad4f4.chunk.js.map": "/react-gh-pages/static/js/787.8e6ad4f4.chunk.js.map"
+    "main.css": "/my-first-react-app/static/css/main.5898833c.css",
+    "main.js": "/my-first-react-app/static/js/main.7002e75d.js",
+    "static/js/787.8e6ad4f4.chunk.js": "/my-first-react-app/static/js/787.8e6ad4f4.chunk.js",
+    "static/media/lightbulb.png": "/my-first-react-app/static/media/lightbulb.e0b4228d7584c1611738.png",
+    "index.html": "/my-first-react-app/index.html",
+    "main.5898833c.css.map": "/my-first-react-app/static/css/main.5898833c.css.map",
+    "main.7002e75d.js.map": "/my-first-react-app/static/js/main.7002e75d.js.map",
+    "787.8e6ad4f4.chunk.js.map": "/my-first-react-app/static/js/787.8e6ad4f4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.800ff139.css",
-    "static/js/main.e55c9dcf.js"
+    "static/css/main.5898833c.css",
+    "static/js/main.7002e75d.js"
   ]
 }
